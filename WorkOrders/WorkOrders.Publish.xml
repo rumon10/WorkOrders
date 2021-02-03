@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Odesk\Online Billing Application\Work Orders - 5\Work Order v1.10" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="WorkOrderDeploy" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="01/07/2016 16:05:24" />
+    <file relUrl="WorkUserLogin.aspx" publishTime="01/07/2016 13:36:25" />
+    <file relUrl="Image/edit.png" publishTime="12/03/2015 19:10:04" />
+    <file relUrl="Site.Master" publishTime="01/07/2016 16:03:10" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="Account/Register.aspx" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="CreateWorkOrder.aspx" publishTime="01/07/2016 16:01:41" />
+    <file relUrl="bin/WorkOrders.pdb" publishTime="01/07/2016 15:54:19" />
+    <file relUrl="bin/itextsharp.dll" publishTime="05/24/2014 16:47:00" />
+    <file relUrl="Account/Web.config" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="bin/WorkOrders.dll" publishTime="01/07/2016 15:54:19" />
+    <file relUrl="Styles/Site.css" publishTime="01/07/2016 16:04:00" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="Users.aspx" publishTime="01/07/2016 13:33:53" />
+    <file relUrl="Account/Login.aspx" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="Image/find.png" publishTime="12/03/2015 18:08:44" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="10/01/2009 06:27:54" />
+    <file relUrl="PasswordChange.aspx" publishTime="01/07/2016 13:27:34" />
+    <file relUrl="Global.asax" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="WorkOrder.Master" publishTime="01/07/2016 16:03:35" />
+    <file relUrl="CompanyLogo/Logo.png" publishTime="12/07/2015 13:52:50" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="Default.aspx" publishTime="12/09/2015 16:40:58" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/30/2015 14:17:38" />
+    <file relUrl="About.aspx" publishTime="11/30/2015 14:17:38" />
+  </publishProfile>
+</publishData>
